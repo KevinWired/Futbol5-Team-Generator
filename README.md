@@ -1,9 +1,7 @@
-## Team Generator :soccer:
+## Team Generator :rocket:
 
-Este programa le permite al usuario cargar diez jugadores para hacer un sorteo y así generar dos equipos en un enfrentamiento de partido de fútbol 5 contra 5.<br>
+Este programa le permite al usuario cargar un total de `N` jugadores para generar dos equipos aleatorios para un próximo enfrentamiento.<br>
 
-Nota: En general se pueden armar equipos 5 vs. 5 de modo aleatorio, siempre que se conozcan de antemano todos los jugadores<br>
-
-**ejemplo** :soccer:<br>
-Supongamos que queremos jugar un partido de fútbol 5 de manera justa. Entonces en este caso `N` seria igual a 10, (el total de jugadores).<br>
+**Ejemplo: partido de fútbol 5** :soccer:<br>
+Supongamos que queremos jugar un partido de fútbol 5 de manera justa. Entonces en este caso ingresariamos un `N = 10`, (el total de jugadores).<br>
 
